@@ -1,0 +1,6 @@
+<?php
+
+include 'koneksi.php';
+
+$sql = "DELETE FROM siswa WHERE nomor = 1";
+
